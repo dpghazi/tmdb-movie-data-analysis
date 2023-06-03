@@ -13,5 +13,4 @@ This data set contains information about 10,000 movies collected from The Movie 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Featured Notebook
-* [TMDb Movie Data Analysis](https://dpghazi.github.io/projects/tmdb-movie-analysis.html)
-  
+* [TMDb Movie Data Analysis](https://dpghazi-da-nano.s3.amazonaws.com/tmdb-movie-analysis.html)
